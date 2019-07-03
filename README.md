@@ -29,6 +29,8 @@ C. Data type based data generation - You specify nothing but a data type for a f
 D. Range and interval based data generation - You specify a range(if applicable) within which to generate data. Can also specify multiple ranges for same column with intervals, etc. <br />
 E. Constant based data generation - You specify a constant to fill up all cells for a column <br />
 F. Ability to specify size as well in text columns <br />
+G. Date type with intervals
+H. Formula support - creating data for a column based on other columns and using a given function.
 
 ### Command Line Options
 TBD
